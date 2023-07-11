@@ -51,5 +51,8 @@ Building a visual report:
 
 This report has two tabs, one summarizes sales by customer and customer type across quarters. The second summarizes the percentages of gross profit and unit sales by product.
 
+![Sales By Customer Type](./report_1.png)
 
+
+![Gross Profit](./report_2.png)
 
